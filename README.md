@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kitty Li.
+- 👋 Hi! I’m Kitty Li, a second year student at the University of Waterloo
 - 👀 I’m interested in full stack and open source development.
 - 🌱 I’m currently learning PHP, JS, and Angular.
 - 💞️ I’m looking to collaborate on full stack and app development projects
